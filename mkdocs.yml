@@ -1,0 +1,28 @@
+site_name: THETA Plugin User Guide
+site_url: http://theta360.guide/plugin-user-guide/
+site_description: RICOH THETA development for plug-ins and 360 applications include AR and VR applications
+repo_url: https://github.com/theta360developers/plugin-user-guide
+repo_name: GitHub
+site_author: Craig Oda 
+google_analytics: ['UA-73311422-1', 'auto']
+theme_dir: theme/material
+theme: 
+  name: material
+  palette:
+    primary: 'light green'
+    accent: 'lime'
+  favicon: assets/images/favicon.ico
+  logo: assets/images/logo.png
+
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/theta360developers'
+    - type: 'twitter'
+      link: 'https://twitter.com/theta360dev'
+    - type: 'facebook'
+      link: 'https://www.facebook.com/theta360guide/'
+  
+pages: 
+  - Coming Soon: placeholder.md
+
