@@ -1,9 +1,9 @@
-site_name: THETA Plug-in User Guide
-site_url: http://theta360.guide/plugin-user-guide/
-site_description: RICOH THETA plug-in usage guide 
-repo_url: https://github.com/theta360developers/plugin-user-guide
-repo_name: GitHub
-site_author: Craig Oda 
+site_name: THETA V Plug-in User Guide
+site_url: 
+site_description: How to customize RICOH THETA V plug-ins
+repo_url: 
+repo_name: 
+site_author: Craig Oda
 google_analytics: ['UA-73311422-1', 'auto']
 theme_dir: theme/material
 theme: 
@@ -24,5 +24,30 @@ extra:
       link: 'https://www.facebook.com/theta360guide/'
   
 pages: 
-  - Coming Soon: index.md
+    - Overview: index.md
+    - Installation: 'main/install.md'
+    - Camera Configuration: 
+        - 'Wi-Fi Internet': 'main/wifi-connect.md'
+        - 'Ethernet': 'main/ethernet-connect.md'
+        - 'Find IP address': 'main/ip.md'
+
+    - Example Plug-ins:
+        - Wireless Live Streaming:
+            - 'Wireless Live Streaming Overview': 'wireless-stream/index.md'
+            - YouTube configuration: wireless-stream/youtube.md
+            - 'Facebook configuration': wireless-stream/facebook.md
+            - Troubleshoot Wireless Live Streaming: wireless-stream/troubleshoot.md
+        - File Cloud Upload:
+            - 'File Cloud Upload Overview': 'cloud-upload/index.md'
+            - 'Configuration': 'cloud-upload/config.md'
+            - 'Upload': 'cloud-upload/upload.md'
+            - 'Google Photos': 'cloud-upload/google.md'
+            - 'Troubleshoot File Cloud Upload': 'cloud-upload/troubleshoot.md'
+        # - Dual-Fisheye:
+        #     - 'Dual-Fisheye Overview': 'dual-fisheye/intro.md'
+    - Troubleshooting and Community: 
+            - Troubleshoot: 'main/troubleshoot.md'
+            - Community: main/next.md
+
+
 
