@@ -3,10 +3,72 @@
 
     
     <url>
-     <loc>http://theta360.guide/plugin-user-guide//</loc>
-     <lastmod>2018-07-06</lastmod>
+     <loc>/</loc>
+     <lastmod>2018-07-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
+    
+
+    
+    <url>
+     <loc>/main/install/</loc>
+     <lastmod>2018-07-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+        
+    <url>
+     <loc>/main/wifi-connect/</loc>
+     <lastmod>2018-07-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/main/ethernet-connect/</loc>
+     <lastmod>2018-07-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/main/ip/</loc>
+     <lastmod>2018-07-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc></loc>
+     <lastmod></lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc></loc>
+     <lastmod></lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>/main/troubleshoot/</loc>
+     <lastmod>2018-07-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/main/next/</loc>
+     <lastmod>2018-07-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
     
 
 </urlset>

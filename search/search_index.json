@@ -2,13 +2,343 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Plug-in User Guide Coming Soon", 
-            "title": "Coming Soon"
+            "text": "THETA Plug-in User Guide\n\n\n\n\nCongratulations. You've just embarked on a wonderous\n360\u00b0 adventure to add amazing new capability to your \nRICOH THETA camera.  We'll show you how to use\nplug-ins to stream 4K \n360\u00b0 video directly from your camera to YouTube, \nupload images directly to Google Photos, \nand take pictures in \ndual-fisheye mode.\n\n\nWith your new plug-ins, you can customize your \ncamera functionality\nto your specific needs by installing these \napplications directly into your camera, similar to\nhow you install applications to your mobile phone or\nlaptop.\n\n\nLet's get started with \n\nplug-in installation\n.", 
+            "title": "Overview"
         }, 
         {
-            "location": "/#plug-in-user-guide-coming-soon", 
+            "location": "/#theta-plug-in-user-guide", 
+            "text": "Congratulations. You've just embarked on a wonderous\n360\u00b0 adventure to add amazing new capability to your \nRICOH THETA camera.  We'll show you how to use\nplug-ins to stream 4K \n360\u00b0 video directly from your camera to YouTube, \nupload images directly to Google Photos, \nand take pictures in \ndual-fisheye mode.  With your new plug-ins, you can customize your \ncamera functionality\nto your specific needs by installing these \napplications directly into your camera, similar to\nhow you install applications to your mobile phone or\nlaptop.  Let's get started with  plug-in installation .", 
+            "title": "THETA Plug-in User Guide"
+        }, 
+        {
+            "location": "/main/install/", 
+            "text": "Guide to Install Plug-ins\n\n\nDownload\n\n\nGo to \nhttps://pluginstore.theta360.com/\n.\n\n\n\n\nInstall\n\n\nConnect your THETA to your computer and\nclick on the \nInstall\n button.\n\n\n\n\nThe Ricoh Desktop Application will automatically start for \nplug-in installation.\n\n\nConfigure Plug-in to Launch\n\n\nAs the THETA V can save multiple plug-ins to internal storage, \nyou need to specify the \nactive\n plug-in \nto launch when the camera is put into plug-in mode.\n\nThere are many ways to select the active plug-in.\n\nDevelopers can use the open API of the THETA\nto set the plug-in. This\ndocument focuses on using the official RICOH mobile app and desktop app to specify the active plug-in.\n\n\nSet Active Plug-in with Desktop App\n\n\nConnect your desktop computer or laptop to the THETA with a USB cable.\nUnder the file menu, select \nPlug-in management...\n.\n\n\n\n\nSelect the plug-in that you want to use.\n\n\n\n\nSet Active Plug-in with Mobile App\n\n\nConnect phone to camera with Wi-Fi. Click on the THETA logo.\n\n\n\n\nAccess the camera configuration.\n\n\n\n\nGo to camera settings. With the mobile app connected to the camera, go to \nSettings\n.\n\n\n\n\nOn the next screen, go to \nCamera Settings\n.\n\n\n\n\nGo to the Plug-in setting. Click on the existing plug-in to change it to a new plug-in.\n\n\nSelect Plug-in To Launch\n\n\nWhen you put the THETA V into plug-in mode. It will launch the active plug-in that you selected with the mobile app. Select the plug-in you want to use.\n\n\n\n\nYou will see a pop-up menu with radio buttons for each plug-in you have installed on your THETA V.\n\n\n\n\nAfter you select the plug-in you want to use, verify that it is shown in your mobile app.", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/main/install/#guide-to-install-plug-ins", 
             "text": "", 
-            "title": "Plug-in User Guide Coming Soon"
+            "title": "Guide to Install Plug-ins"
+        }, 
+        {
+            "location": "/main/install/#download", 
+            "text": "Go to  https://pluginstore.theta360.com/ .", 
+            "title": "Download"
+        }, 
+        {
+            "location": "/main/install/#install", 
+            "text": "Connect your THETA to your computer and\nclick on the  Install  button.   The Ricoh Desktop Application will automatically start for \nplug-in installation.", 
+            "title": "Install"
+        }, 
+        {
+            "location": "/main/install/#configure-plug-in-to-launch", 
+            "text": "As the THETA V can save multiple plug-ins to internal storage, \nyou need to specify the  active  plug-in \nto launch when the camera is put into plug-in mode. \nThere are many ways to select the active plug-in. \nDevelopers can use the open API of the THETA\nto set the plug-in. This\ndocument focuses on using the official RICOH mobile app and desktop app to specify the active plug-in.", 
+            "title": "Configure Plug-in to Launch"
+        }, 
+        {
+            "location": "/main/install/#set-active-plug-in-with-desktop-app", 
+            "text": "Connect your desktop computer or laptop to the THETA with a USB cable.\nUnder the file menu, select  Plug-in management... .   Select the plug-in that you want to use.", 
+            "title": "Set Active Plug-in with Desktop App"
+        }, 
+        {
+            "location": "/main/install/#set-active-plug-in-with-mobile-app", 
+            "text": "Connect phone to camera with Wi-Fi. Click on the THETA logo.   Access the camera configuration.   Go to camera settings. With the mobile app connected to the camera, go to  Settings .   On the next screen, go to  Camera Settings .   Go to the Plug-in setting. Click on the existing plug-in to change it to a new plug-in.", 
+            "title": "Set Active Plug-in with Mobile App"
+        }, 
+        {
+            "location": "/main/install/#select-plug-in-to-launch", 
+            "text": "When you put the THETA V into plug-in mode. It will launch the active plug-in that you selected with the mobile app. Select the plug-in you want to use.   You will see a pop-up menu with radio buttons for each plug-in you have installed on your THETA V.   After you select the plug-in you want to use, verify that it is shown in your mobile app.", 
+            "title": "Select Plug-in To Launch"
+        }, 
+        {
+            "location": "/main/wifi-connect/", 
+            "text": "Connect THETA with WiFi\n\n\nAfter your THETA V is configured to launch the plug-in you want to use, \nyou may need to configure network settings on your THETA. \nAlthough not all plug-ins need Internet access,\nsome plug-ins will expect that you configured your THETA with \nthe name of the router \nin your home or office as well as the password. This is the \nsame Wi-Fi router that your mobile phone and laptop usually connect to.\n\n\nFrom \nSettings\n, select Wireless LAN client mode.\n\n\n\n\nGo to \nAccess point settings\n.\n\n\n\n\nAdd the Access point for your router.\n\n\n\n\nEnter the name of the access point and the password. In this example my access point is called, \u201clearniot\u201d.\n\n\n\n\nIf you do not know the security settings for your WiFi router, it is likely to be WPA/WPA2 PSK.\n\n\nWith your WiFi configured, you can now put your THETA V into client mode by pressing the WiFi button a few times until the WiFi LED flashes green. Once connected, the WiFi LED will change to solid green.", 
+            "title": "Wi-Fi Internet"
+        }, 
+        {
+            "location": "/main/wifi-connect/#connect-theta-with-wifi", 
+            "text": "After your THETA V is configured to launch the plug-in you want to use, \nyou may need to configure network settings on your THETA. \nAlthough not all plug-ins need Internet access,\nsome plug-ins will expect that you configured your THETA with \nthe name of the router \nin your home or office as well as the password. This is the \nsame Wi-Fi router that your mobile phone and laptop usually connect to.  From  Settings , select Wireless LAN client mode.   Go to  Access point settings .   Add the Access point for your router.   Enter the name of the access point and the password. In this example my access point is called, \u201clearniot\u201d.   If you do not know the security settings for your WiFi router, it is likely to be WPA/WPA2 PSK.  With your WiFi configured, you can now put your THETA V into client mode by pressing the WiFi button a few times until the WiFi LED flashes green. Once connected, the WiFi LED will change to solid green.", 
+            "title": "Connect THETA with WiFi"
+        }, 
+        {
+            "location": "/main/ethernet-connect/", 
+            "text": "Connect THETA with Ethernet\n\n\nThe THETA can also connect to the Internet using \nan USB OTG Ethernet adapter.  We are still collecting\ntest results on which adapters work. If you get something\nworking, please submit a test report.", 
+            "title": "Ethernet"
+        }, 
+        {
+            "location": "/main/ethernet-connect/#connect-theta-with-ethernet", 
+            "text": "The THETA can also connect to the Internet using \nan USB OTG Ethernet adapter.  We are still collecting\ntest results on which adapters work. If you get something\nworking, please submit a test report.", 
+            "title": "Connect THETA with Ethernet"
+        }, 
+        {
+            "location": "/main/ip/", 
+            "text": "Find IP Address of THETA V\n\n\nTo configure some plug-ins, you will need to find the IP address of your THETA V when\nit is connected to the Internet.\n\n\nFor example, you will need to the IP address of the THETA to configure both\nthe Wireless Live Streaming and File Cloud Upload plug-ins using a web browser. \nIn this example, I am using Chrome. You can use any browser. \n\n\nYou can use the THETA mobile app to find the IP address of the THETA V. You \nneed to connect the app to the THETA V using client mode. Here is a \n\nstep-by-step guide to connect your THETA V and your mobile phone with client mode\n. \nRicoh also has an excellent \n\nvideo on using Wireless LAN Client Mode\n. \nSteps to configure the THETA V for client mode using WPS is covered in \n\nthis video\n from the community.\n\n\n\n\nThe Authentication settings password is used by the mobile app to connect to the THETA. By default, this is the numerical ID of the THETA V serial number. If the THETA V serial number on the bottom of the camera is THETAYL123456789 then the password is 123456789.\n\n\n\n\nPress \u201cSpecify a password\u201d.\n\n\n\n\nIn the mobile app, the IP address of your THETA is in \n\n\nSettings -\n Camera settings - Camera version\n\n\n\n\nIn addition to the method above, you can find the IP address assigned to your camera using many\nother methods described in the main \ntroubleshooting\n section.", 
+            "title": "Find IP address"
+        }, 
+        {
+            "location": "/main/ip/#find-ip-address-of-theta-v", 
+            "text": "To configure some plug-ins, you will need to find the IP address of your THETA V when\nit is connected to the Internet.  For example, you will need to the IP address of the THETA to configure both\nthe Wireless Live Streaming and File Cloud Upload plug-ins using a web browser. \nIn this example, I am using Chrome. You can use any browser.   You can use the THETA mobile app to find the IP address of the THETA V. You \nneed to connect the app to the THETA V using client mode. Here is a  step-by-step guide to connect your THETA V and your mobile phone with client mode . \nRicoh also has an excellent  video on using Wireless LAN Client Mode . \nSteps to configure the THETA V for client mode using WPS is covered in  this video  from the community.   The Authentication settings password is used by the mobile app to connect to the THETA. By default, this is the numerical ID of the THETA V serial number. If the THETA V serial number on the bottom of the camera is THETAYL123456789 then the password is 123456789.   Press \u201cSpecify a password\u201d.   In the mobile app, the IP address of your THETA is in   Settings -  Camera settings - Camera version   In addition to the method above, you can find the IP address assigned to your camera using many\nother methods described in the main  troubleshooting  section.", 
+            "title": "Find IP Address of THETA V"
+        }, 
+        {
+            "location": "/wireless-stream/", 
+            "text": "Overview\n\n\nThe Wireless Live Streaming plug-in allows a THETA V to stream 4K 360\u00b0 video directly to YouTube Live Events, Facebook Live 360 or Periscope Live 360. No mobile phone or laptop is required. The THETA V connects to the Internet using WiFi and will stream the 360 video directly to a service such as YouTube.\n\n\nThe plug-in has also been reported to work with Ethernet using\nUSB OTG Ethernet adapters. If you get live streaming over\nEthernet working, please send us a report of your USB OTG adapter\nand we'll add it to the guide.\n\n\nThe plug-in is available from the THETA Store (LINK). Source code for the plug-in is  available from GitHub (LINK). This guide covers the use of the apk from the THETA Store to connect to YouTube Live Events and use 360\u00b0 video.\n\n\nFor additional usage and development guides, see theta360.guide.\n\n\nEnvironment Used in this Guide\n\n\n\n\nFirmware 2.31.1 on THETA V\n\n\nWindows 10 and Chrome browser (Any OS and browser can be used)\n\n\nWireless Live Streaming plug-in version 1.0.8\n\n\nYouTube Live Event", 
+            "title": "Wireless Live Streaming Overview"
+        }, 
+        {
+            "location": "/wireless-stream/#overview", 
+            "text": "The Wireless Live Streaming plug-in allows a THETA V to stream 4K 360\u00b0 video directly to YouTube Live Events, Facebook Live 360 or Periscope Live 360. No mobile phone or laptop is required. The THETA V connects to the Internet using WiFi and will stream the 360 video directly to a service such as YouTube.  The plug-in has also been reported to work with Ethernet using\nUSB OTG Ethernet adapters. If you get live streaming over\nEthernet working, please send us a report of your USB OTG adapter\nand we'll add it to the guide.  The plug-in is available from the THETA Store (LINK). Source code for the plug-in is  available from GitHub (LINK). This guide covers the use of the apk from the THETA Store to connect to YouTube Live Events and use 360\u00b0 video.  For additional usage and development guides, see theta360.guide.", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/wireless-stream/#environment-used-in-this-guide", 
+            "text": "Firmware 2.31.1 on THETA V  Windows 10 and Chrome browser (Any OS and browser can be used)  Wireless Live Streaming plug-in version 1.0.8  YouTube Live Event", 
+            "title": "Environment Used in this Guide"
+        }, 
+        {
+            "location": "/wireless-stream/youtube/", 
+            "text": "YouTube Live 360\u00b0 Event\n\n\nIf your THETA is not connected to the Internet or you do not know the IP address,\nrefer to the Camera Configuration section of this guide.\n\n\nOnce you have the IP address, you can now use any web browser to to configure your THETA V for YouTube Live Events.\n\n\nConnect browser to RICOH THETA V\n\n\nUse port 8888\n\n\nMy THETA V was assigned an IP address of 192.168.2.100. I\u2019m pointing my browser to 192.168.2.100:8888. This is the IP address and port for a configuration web server that is running on your THETA V.\n\n\nIn your browser, you will see the configuration tool below. You will need to fill in the \n\nServer URL\n and the \n\nStream name/key\n with the information from your YouTube Live Event.\n\n\n\n\nSet Up YouTube Live Event\n\n\nThere is extensive information on setting up a YouTube Live 360 Event in the \n\nRICOH THETA Live Streaming Guide\n. \nAlthough the guide is for the RICOH THETA S, \nmost of the information is still relevant for the RICOH THETA V.\n\n\nI\u2019ll cover some of the settings in this guide. Note that I have slow upstream bandwidth in my office and the screenshots show lower resolution and bandwidth settings. You should use the highest settings that your Internet connect supports. The default settings are 4K(3840x1920) 30fps with a bit rate of 20Mbps.\n\n\nYouTube Live Event Settings\n\n\nMake sure you create a Live Event.\n\n\n\n\nYou need to click on \nAdvanced Settings\n and look for \nThis live stream is 360\u00b0\n.\n\n\n\n\nOn the Live Events setting page, you can get the Stream Name and Server URL. Copy and paste this information into the Wireless Live Streaming plug-in configuration application. Make sure you are using a reusable stream key.\n\n\n\n\n\n\nManaging Streams\n\n\nYou may need to adjust the stream sustained bitrate to match your Internet\nbandwidth.  To create a new stream, select the drop-down menu box\nbelow the \nResuable stream key\n.\n\n\n\n\nYou may see an error about the resolution not matching the configuration. In my tests,\nI ignored the error message and the stream still worked fine.\n\n\nThe error message was:\n\n\n\n\nYou need to change the video resolution.  The current resolution\nis (640x320), which is not supported for this configuration. The\nexpected video resolution is (854x480).\n\n\n\n\nIf you are still having problems, you can also try the Variable bitrate. \nAlthough this is in BETA, the setting worked in my tests except for a \nblack circle at the top and bottoms of the streams. It's better to\nspecify a bitrate. I've used  4K, 2K, and 480 bitrates successfully. In the \npartially successful test below,\nI am using 4K 30fps with variable bitrate.\n\n\n\n\nServer Information\n\n\nCopy the server information to your plug-in configuration web-based tool.\n\n\n\n\nStart the Stream\n\n\nYour moment of glory has finally arrived. Start the stream.  You can press the shutter button of your THETA V to start the stream or press the Start streaming button in the web interface. After this initial configuration, you should be able to use the THETA V as a standalone device for live streaming.\n\n\nIn the web browser plug-in configuration, you'll see the word\n\nStreaming\n with a red dot next to it.  You should have the correct\n\nServer URL\n  and \nStream name/key\n that you copied from YouTube.\n\n\n\n\nThe \nStart streaming\n button will change to a \nStop streaming\n button.\n\n\n\n\nIf you want to preview your 360 video stream prior to going live, press\n\nPreview Stream\n in the YouTube Live Control Room.  In the example below,\nI am using a variable resolution stream. However, you can set it to \na specific resolution and bitrate using the YouTube presets.\n\n\n\n\nIn the YouTube Live Control Room, make your event Live.\n\n\n\n\nView on YouTube\n\n\nIt works!\n\n\n\n\nTest from other browsers. Rotate the video feed. Share\nwith your millions of followers. :-)", 
+            "title": "YouTube configuration"
+        }, 
+        {
+            "location": "/wireless-stream/youtube/#youtube-live-360-event", 
+            "text": "If your THETA is not connected to the Internet or you do not know the IP address,\nrefer to the Camera Configuration section of this guide.  Once you have the IP address, you can now use any web browser to to configure your THETA V for YouTube Live Events.", 
+            "title": "YouTube Live 360\u00b0 Event"
+        }, 
+        {
+            "location": "/wireless-stream/youtube/#connect-browser-to-ricoh-theta-v", 
+            "text": "Use port 8888  My THETA V was assigned an IP address of 192.168.2.100. I\u2019m pointing my browser to 192.168.2.100:8888. This is the IP address and port for a configuration web server that is running on your THETA V.  In your browser, you will see the configuration tool below. You will need to fill in the  Server URL  and the  Stream name/key  with the information from your YouTube Live Event.", 
+            "title": "Connect browser to RICOH THETA V"
+        }, 
+        {
+            "location": "/wireless-stream/youtube/#set-up-youtube-live-event", 
+            "text": "There is extensive information on setting up a YouTube Live 360 Event in the  RICOH THETA Live Streaming Guide . \nAlthough the guide is for the RICOH THETA S, \nmost of the information is still relevant for the RICOH THETA V.  I\u2019ll cover some of the settings in this guide. Note that I have slow upstream bandwidth in my office and the screenshots show lower resolution and bandwidth settings. You should use the highest settings that your Internet connect supports. The default settings are 4K(3840x1920) 30fps with a bit rate of 20Mbps.", 
+            "title": "Set Up YouTube Live Event"
+        }, 
+        {
+            "location": "/wireless-stream/youtube/#youtube-live-event-settings", 
+            "text": "Make sure you create a Live Event.   You need to click on  Advanced Settings  and look for  This live stream is 360\u00b0 .   On the Live Events setting page, you can get the Stream Name and Server URL. Copy and paste this information into the Wireless Live Streaming plug-in configuration application. Make sure you are using a reusable stream key.", 
+            "title": "YouTube Live Event Settings"
+        }, 
+        {
+            "location": "/wireless-stream/youtube/#managing-streams", 
+            "text": "You may need to adjust the stream sustained bitrate to match your Internet\nbandwidth.  To create a new stream, select the drop-down menu box\nbelow the  Resuable stream key .   You may see an error about the resolution not matching the configuration. In my tests,\nI ignored the error message and the stream still worked fine.  The error message was:   You need to change the video resolution.  The current resolution\nis (640x320), which is not supported for this configuration. The\nexpected video resolution is (854x480).   If you are still having problems, you can also try the Variable bitrate. \nAlthough this is in BETA, the setting worked in my tests except for a \nblack circle at the top and bottoms of the streams. It's better to\nspecify a bitrate. I've used  4K, 2K, and 480 bitrates successfully. In the \npartially successful test below,\nI am using 4K 30fps with variable bitrate.", 
+            "title": "Managing Streams"
+        }, 
+        {
+            "location": "/wireless-stream/youtube/#server-information", 
+            "text": "Copy the server information to your plug-in configuration web-based tool.", 
+            "title": "Server Information"
+        }, 
+        {
+            "location": "/wireless-stream/youtube/#start-the-stream", 
+            "text": "Your moment of glory has finally arrived. Start the stream.  You can press the shutter button of your THETA V to start the stream or press the Start streaming button in the web interface. After this initial configuration, you should be able to use the THETA V as a standalone device for live streaming.  In the web browser plug-in configuration, you'll see the word Streaming  with a red dot next to it.  You should have the correct Server URL   and  Stream name/key  that you copied from YouTube.   The  Start streaming  button will change to a  Stop streaming  button.   If you want to preview your 360 video stream prior to going live, press Preview Stream  in the YouTube Live Control Room.  In the example below,\nI am using a variable resolution stream. However, you can set it to \na specific resolution and bitrate using the YouTube presets.   In the YouTube Live Control Room, make your event Live.", 
+            "title": "Start the Stream"
+        }, 
+        {
+            "location": "/wireless-stream/youtube/#view-on-youtube", 
+            "text": "It works!   Test from other browsers. Rotate the video feed. Share\nwith your millions of followers. :-)", 
+            "title": "View on YouTube"
+        }, 
+        {
+            "location": "/wireless-stream/facebook/", 
+            "text": "Facebook Live Event\n\n\n\n\nEasily put 360\u00b0 Live Events on your Facebook timeline or corporate\nPage.  Stream directly from the THETA V with Wi-Fi. No other device \nis needed.\n\n\nCreate Facebook Live Event\n\n\nGo to https://www.facebook.com/live/create\n\n\n\n\nYou will see the \nConnect\n page. Although the blue button\nis tempting to press right now, hold on for just a second. You need to set the\nevent to 360\u00b0.\n\n\n\n\nGo to the \nSettings\n panel. Go to \n360 VIDEO\n.\n\n\n\n\nMake sure you've checked, \nBroadcast this as a spherical video\n.\n\n\nSelect \n360 Video - Standard\n.\n\n\n\n\nConfigure THETA\n\n\nYou need to copy the Server URL and Persistent Stream Key from\nFacebook into your THETA web-based configuration tool.  Make sure\nthe Server URL starts with \nlive-360\n.  Start the stream, either\nby pressing the button in the web browser or pressing the physical\nshutter button on the camera.\n\n\n\n\nStart Event\n\n\nPreview the event to make sure it is in 360\u00b0. You will see\nthe 360\u00b0 directional indicator in the right of the panel.\n\n\n\n\nThe front view is the directly opposite the rear lens that is\nopposite of the shutter button on the camera.\n\n\n\n\nGo live.\n\n\n\n\nDo to low upstream bandwidth, I am streaming only at 720p, not \nat the 4K the THETA V is capable of.\n\n\n\n\nInvite specific friends or make your Facebook Live 360\u00b0\nEvent open to the public.\n\n\n\n\nEngage with your audience.\n\n\n\n\nNote that audio is single channel only right now.  This\nis the screenshot from Jesse Casman's workstation in \nSan Francisco. I'm talking to him using the THETA \ninternal microphone from Palo Alto.", 
+            "title": "Facebook configuration"
+        }, 
+        {
+            "location": "/wireless-stream/facebook/#facebook-live-event", 
+            "text": "Easily put 360\u00b0 Live Events on your Facebook timeline or corporate\nPage.  Stream directly from the THETA V with Wi-Fi. No other device \nis needed.", 
+            "title": "Facebook Live Event"
+        }, 
+        {
+            "location": "/wireless-stream/facebook/#create-facebook-live-event", 
+            "text": "Go to https://www.facebook.com/live/create   You will see the  Connect  page. Although the blue button\nis tempting to press right now, hold on for just a second. You need to set the\nevent to 360\u00b0.   Go to the  Settings  panel. Go to  360 VIDEO .   Make sure you've checked,  Broadcast this as a spherical video .  Select  360 Video - Standard .", 
+            "title": "Create Facebook Live Event"
+        }, 
+        {
+            "location": "/wireless-stream/facebook/#configure-theta", 
+            "text": "You need to copy the Server URL and Persistent Stream Key from\nFacebook into your THETA web-based configuration tool.  Make sure\nthe Server URL starts with  live-360 .  Start the stream, either\nby pressing the button in the web browser or pressing the physical\nshutter button on the camera.", 
+            "title": "Configure THETA"
+        }, 
+        {
+            "location": "/wireless-stream/facebook/#start-event", 
+            "text": "Preview the event to make sure it is in 360\u00b0. You will see\nthe 360\u00b0 directional indicator in the right of the panel.   The front view is the directly opposite the rear lens that is\nopposite of the shutter button on the camera.   Go live.   Do to low upstream bandwidth, I am streaming only at 720p, not \nat the 4K the THETA V is capable of.   Invite specific friends or make your Facebook Live 360\u00b0\nEvent open to the public.   Engage with your audience.   Note that audio is single channel only right now.  This\nis the screenshot from Jesse Casman's workstation in \nSan Francisco. I'm talking to him using the THETA \ninternal microphone from Palo Alto.", 
+            "title": "Start Event"
+        }, 
+        {
+            "location": "/wireless-stream/troubleshoot/", 
+            "text": "Troubleshoot Wireless Live Streaming\n\n\nTesting Plug-in with Vysor\n\n\nAs of version 1.04, plug-in information can be viewed in Vysor. To use Vysor, you\nneed to \njoin the \nRICOH THETA Plug-in Partner Program\n.\n\n\nAlthough using Vysor with the plug-in is not an official supported feature, \nit is useful for debugging, especially if the stream is not appearing on \nYouTube and you\u2019re wondering what\u2019s going on in the camera.  In additional to the plug-in \nsettings, you can also see the live stream on the camera. \n\n\nI\u2019ve translated the major sections for you into English. Note that I have low bandwidth in my office and have the resolution and bitrate set very low for my test. Please set your own resolution and bitrate to the highest value that your network can support.\n\n\n\n\nThis is the original Japanese.\n\n\n\n\nThe view is in equirectangular format. It's a quick way to\nmake sure the video stream is being managed by the plug-in.\n\n\n\n\nResolution Error\n\n\nYou may see an error about the resolution being not supported\nin a current configuration. In my tests, the live streaming still works.\n\n\nError Message\n\n\n\n\nActual Results\n\n\nThe error message above does not seem to impact use of the plug-in.\nThe image is blurry due to poor upstream bandwidth at my test location.", 
+            "title": "Troubleshoot Wireless Live Streaming"
+        }, 
+        {
+            "location": "/wireless-stream/troubleshoot/#troubleshoot-wireless-live-streaming", 
+            "text": "", 
+            "title": "Troubleshoot Wireless Live Streaming"
+        }, 
+        {
+            "location": "/wireless-stream/troubleshoot/#testing-plug-in-with-vysor", 
+            "text": "As of version 1.04, plug-in information can be viewed in Vysor. To use Vysor, you\nneed to  join the \nRICOH THETA Plug-in Partner Program .  Although using Vysor with the plug-in is not an official supported feature, \nit is useful for debugging, especially if the stream is not appearing on \nYouTube and you\u2019re wondering what\u2019s going on in the camera.  In additional to the plug-in \nsettings, you can also see the live stream on the camera.   I\u2019ve translated the major sections for you into English. Note that I have low bandwidth in my office and have the resolution and bitrate set very low for my test. Please set your own resolution and bitrate to the highest value that your network can support.   This is the original Japanese.   The view is in equirectangular format. It's a quick way to\nmake sure the video stream is being managed by the plug-in.", 
+            "title": "Testing Plug-in with Vysor"
+        }, 
+        {
+            "location": "/wireless-stream/troubleshoot/#resolution-error", 
+            "text": "You may see an error about the resolution being not supported\nin a current configuration. In my tests, the live streaming still works.", 
+            "title": "Resolution Error"
+        }, 
+        {
+            "location": "/wireless-stream/troubleshoot/#error-message", 
+            "text": "", 
+            "title": "Error Message"
+        }, 
+        {
+            "location": "/wireless-stream/troubleshoot/#actual-results", 
+            "text": "The error message above does not seem to impact use of the plug-in.\nThe image is blurry due to poor upstream bandwidth at my test location.", 
+            "title": "Actual Results"
+        }, 
+        {
+            "location": "/cloud-upload/", 
+            "text": "Overview\n\n\nThe Cloud Upload plug-in uploads still images directly from\nthe RICOH THETA to Google Photos using Wi-Fi. The upload\nprocess can be started by either using the shutter button\nof the camera or by using a web-based upload manager.\n\n\nPrior to your first upload, you need to register your\nTHETA with Google Photos to ensure secure uploads. \nInitial configuration and upload are described in this document.\n\n\nYour 360 images can be rotated within Google Photos.\n\n\n\n\nEnvironment Used in this Guide\n\n\n\n\nFirmware 2.31.1 on THETA V\n\n\nWindows 10 and Chrome browser (Any OS and browser can be used)\n\n\nCloud Upload plug-in version 1.0.6\n\n\nGoogle Photos", 
+            "title": "File Cloud Upload Overview"
+        }, 
+        {
+            "location": "/cloud-upload/#overview", 
+            "text": "The Cloud Upload plug-in uploads still images directly from\nthe RICOH THETA to Google Photos using Wi-Fi. The upload\nprocess can be started by either using the shutter button\nof the camera or by using a web-based upload manager.  Prior to your first upload, you need to register your\nTHETA with Google Photos to ensure secure uploads. \nInitial configuration and upload are described in this document.  Your 360 images can be rotated within Google Photos.", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/cloud-upload/#environment-used-in-this-guide", 
+            "text": "Firmware 2.31.1 on THETA V  Windows 10 and Chrome browser (Any OS and browser can be used)  Cloud Upload plug-in version 1.0.6  Google Photos", 
+            "title": "Environment Used in this Guide"
+        }, 
+        {
+            "location": "/cloud-upload/config/", 
+            "text": "Plug-in Configuration\n\n\nSteps:\n\n\n\n\nConnect RICOH THETA to Wi-Fi router in your home or office\n\n\nConnect your mobile phone or workstation to the same Wi-Fi router\n\n\nObtain IP address of your RICOH THETA\n\n\nUse web browser such as Google Chrome to connect to the IP address of your THETA\n\n\nAuthorize your THETA to connect with your Google Account\n\n\nStart upload to Google Photos\n\n\nShare your 360 images and celebrate\n\n\n\n\nConnecting your THETA to your Wi-Fi router and obtaining the IP address is covered\nin a previous section.  \n\n\nA previous step also covers selecting the File cloud upload plug-in \nas the active plug-in.\n\n\n\n\nThe steps below cover configuration specific to the Cloud \nUpload plug-in and Google Photos.\n\n\nAuthorize Your THETA\n\n\nUse a web browser to connect to the IP address of your THETA at port 8888.\nIf the IP address is 192.168.2.102, the full URL will be\n\nhttp://192.168.2.102:8888\n.\n\n\nRegister Plug-in with Google Account\n\n\nIf this is your first time using the Cloud Upload plug-in, you must register your new\nplug-in. Press the \nUnregistered\n text next to Google Photos.\n\n\n\n\nGet Authentication Code\n\n\nYour THETA needs to be connected to the Internet. With the THETA conected, you\nwill see the Authentication Code. Save this code in your clipboard or on a note.\nPress login.\n\n\n\n\nAuthorize Cloud Upload Plug-in\n\n\n\n\n\n\n\n\nVerify Authorization\n\n\nYou will see a confirmation screen that your account has been \nverified.\n\n\n\n\nYour Google Account user name will appear next to \nGoogle Photos\n in the\nweb browser configuration application.", 
+            "title": "Configuration"
+        }, 
+        {
+            "location": "/cloud-upload/config/#plug-in-configuration", 
+            "text": "Steps:   Connect RICOH THETA to Wi-Fi router in your home or office  Connect your mobile phone or workstation to the same Wi-Fi router  Obtain IP address of your RICOH THETA  Use web browser such as Google Chrome to connect to the IP address of your THETA  Authorize your THETA to connect with your Google Account  Start upload to Google Photos  Share your 360 images and celebrate   Connecting your THETA to your Wi-Fi router and obtaining the IP address is covered\nin a previous section.    A previous step also covers selecting the File cloud upload plug-in \nas the active plug-in.   The steps below cover configuration specific to the Cloud \nUpload plug-in and Google Photos.", 
+            "title": "Plug-in Configuration"
+        }, 
+        {
+            "location": "/cloud-upload/config/#authorize-your-theta", 
+            "text": "Use a web browser to connect to the IP address of your THETA at port 8888.\nIf the IP address is 192.168.2.102, the full URL will be http://192.168.2.102:8888 .", 
+            "title": "Authorize Your THETA"
+        }, 
+        {
+            "location": "/cloud-upload/config/#register-plug-in-with-google-account", 
+            "text": "If this is your first time using the Cloud Upload plug-in, you must register your new\nplug-in. Press the  Unregistered  text next to Google Photos.", 
+            "title": "Register Plug-in with Google Account"
+        }, 
+        {
+            "location": "/cloud-upload/config/#get-authentication-code", 
+            "text": "Your THETA needs to be connected to the Internet. With the THETA conected, you\nwill see the Authentication Code. Save this code in your clipboard or on a note.\nPress login.", 
+            "title": "Get Authentication Code"
+        }, 
+        {
+            "location": "/cloud-upload/config/#authorize-cloud-upload-plug-in", 
+            "text": "", 
+            "title": "Authorize Cloud Upload Plug-in"
+        }, 
+        {
+            "location": "/cloud-upload/config/#verify-authorization", 
+            "text": "You will see a confirmation screen that your account has been \nverified.   Your Google Account user name will appear next to  Google Photos  in the\nweb browser configuration application.", 
+            "title": "Verify Authorization"
+        }, 
+        {
+            "location": "/cloud-upload/upload/", 
+            "text": "Upload to Google Photos\n\n\nWith your THETA plug-in authorized with your Google Account, you\nwill see a solid green Wi-Fi LED and the solid blue \nLive\n LED\nwhen your THETA is in plug-in mode.\n\n\nVerify THETA is Ready\n\n\n\n\nIf your THETA is not in a ready state, verify the \nfollowing:\n\n\n\n\nCloud Upload plug-in is selected as active plug-in\n\n\nTHETA is in plug-in mode and there is a solid white LED above the shutter button\n\n\nTHETA V is connected to Internet. If your LED is flashing blue, press the Wi-Fi button on the side of the camera. The Wi-Fi LED will flash green initially, then be solid green when the connection is established\n\n\nYour plug-in is authorized with your Google Account.\n\n\n\n\nStart Upload\n\n\nYou can use the shutter button to start the upload or press the button in the web browser.\n\n\n\n\nVerify Upload Progress\n\n\nWhen your upload starts, you will see three blinking LEDs: green Wi-Fi, blue camera, blue Live.\n\n\n\n\nIn your web-based configuration too, you will also see a progress bar.", 
+            "title": "Upload"
+        }, 
+        {
+            "location": "/cloud-upload/upload/#upload-to-google-photos", 
+            "text": "With your THETA plug-in authorized with your Google Account, you\nwill see a solid green Wi-Fi LED and the solid blue  Live  LED\nwhen your THETA is in plug-in mode.", 
+            "title": "Upload to Google Photos"
+        }, 
+        {
+            "location": "/cloud-upload/upload/#verify-theta-is-ready", 
+            "text": "If your THETA is not in a ready state, verify the \nfollowing:   Cloud Upload plug-in is selected as active plug-in  THETA is in plug-in mode and there is a solid white LED above the shutter button  THETA V is connected to Internet. If your LED is flashing blue, press the Wi-Fi button on the side of the camera. The Wi-Fi LED will flash green initially, then be solid green when the connection is established  Your plug-in is authorized with your Google Account.", 
+            "title": "Verify THETA is Ready"
+        }, 
+        {
+            "location": "/cloud-upload/upload/#start-upload", 
+            "text": "You can use the shutter button to start the upload or press the button in the web browser.", 
+            "title": "Start Upload"
+        }, 
+        {
+            "location": "/cloud-upload/upload/#verify-upload-progress", 
+            "text": "When your upload starts, you will see three blinking LEDs: green Wi-Fi, blue camera, blue Live.   In your web-based configuration too, you will also see a progress bar.", 
+            "title": "Verify Upload Progress"
+        }, 
+        {
+            "location": "/cloud-upload/google/", 
+            "text": "Google Photos\n\n\nGo to \nphotos.google.com\n with a web browser. You'll be able to\nsee and share the images with your friends and family.\n\n\n\n\nAt the time of testing, the plug-in only works with photos\nand does not upload 360 videos.\n\n\nNavigation and Sharing\n\n\nClick on the equirectangular image thumbnail to open up the\n360\u00b0 image navigation view\n\n\n\n\nYou can use your mouse and scroll wheel to\nnavigate the image.\n\n\n\n\nPress the share icon in the upper right corner to \nshare the image by email or social media.\n\n\n\n\nYou will see a number of options for sharing your 360\u00b0 image.", 
+            "title": "Google Photos"
+        }, 
+        {
+            "location": "/cloud-upload/google/#google-photos", 
+            "text": "Go to  photos.google.com  with a web browser. You'll be able to\nsee and share the images with your friends and family.   At the time of testing, the plug-in only works with photos\nand does not upload 360 videos.", 
+            "title": "Google Photos"
+        }, 
+        {
+            "location": "/cloud-upload/google/#navigation-and-sharing", 
+            "text": "Click on the equirectangular image thumbnail to open up the\n360\u00b0 image navigation view   You can use your mouse and scroll wheel to\nnavigate the image.   Press the share icon in the upper right corner to \nshare the image by email or social media.   You will see a number of options for sharing your 360\u00b0 image.", 
+            "title": "Navigation and Sharing"
+        }, 
+        {
+            "location": "/cloud-upload/troubleshoot/", 
+            "text": "Troubleshoot\n\n\nRemove Access\n\n\nAlthough you should not need to remove account access to the \nplug-in, you may want to remove access and then authorize \naccess again for testing.\n\n\nIf you want to remove access to the File cloud upload plug-in, go \nto https://myaccount.google.com\n\n\nSelect \nSign-in \n security\n. \nSelect \nApps with account access\n.\n\n\n\n\nYou'll be able to remove access to the plug-in.", 
+            "title": "Troubleshoot File Cloud Upload"
+        }, 
+        {
+            "location": "/cloud-upload/troubleshoot/#troubleshoot", 
+            "text": "", 
+            "title": "Troubleshoot"
+        }, 
+        {
+            "location": "/cloud-upload/troubleshoot/#remove-access", 
+            "text": "Although you should not need to remove account access to the \nplug-in, you may want to remove access and then authorize \naccess again for testing.  If you want to remove access to the File cloud upload plug-in, go \nto https://myaccount.google.com  Select  Sign-in   security . \nSelect  Apps with account access .   You'll be able to remove access to the plug-in.", 
+            "title": "Remove Access"
+        }, 
+        {
+            "location": "/main/troubleshoot/", 
+            "text": "Troubleshooting\n\n\nTo use many of the debugging tools, you should \njoin the \nRICOH THETA Plug-in Partner Program\n.\nThis will allow you to use the Ricoh Desktop Application to put the THETA into\n\nDeveloper Mode\n. With developer mode enabled, you can use adb and Vysor to get\nmore information on your camera.\n\n\nFind IP Address of Camera\n\n\nThe recommended may to find the IP address of the camera is to use the official Ricoh mobile app\nand connect the mobile app to the camera with client mode. If you prefer to use \na different method, here are 5 alternative ways to find the IP address.\n\n\n\n\nLog into your WiFi router and check which IP was assigned to your THETA V using DHCP\n\n\nIf your THETA V is enabled with \u201cDeveloper Mode\u201d, use \nadb shell\n to log into your camera and then use ifconfig to find the IP address.\n\n\nUse Vysor to check the IP address. Requires \u201cDeveloper Mode\u201d.\n\n\nUse \ndns-sd\n (does not require Developer Mode)\n\n\nUse \nPython scripts\n\n\n\n\nadb\n\n\nUsing adb shell to find IP address and test Internet access.\n\n\n\n\n\n\nIn the example above, the IP address of my camera is 192.168.2.102.\n\n\nVysor\n\n\nUsing Vysor to get IP address of THETA V.\n\n\n\n\n\n\nPlug-in Permissions\n\n\nUse Vysor to check the permissions of your plug-in.\n\n\nSettings -\n Apps\n\n\n\n\nGo to the app you want to verify.\n\n\n\n\nMake sure the appropriate permissions are set. Most plug-ins will need access to the\ncamera of the THETA.", 
+            "title": "Troubleshoot"
+        }, 
+        {
+            "location": "/main/troubleshoot/#troubleshooting", 
+            "text": "To use many of the debugging tools, you should  join the \nRICOH THETA Plug-in Partner Program .\nThis will allow you to use the Ricoh Desktop Application to put the THETA into Developer Mode . With developer mode enabled, you can use adb and Vysor to get\nmore information on your camera.", 
+            "title": "Troubleshooting"
+        }, 
+        {
+            "location": "/main/troubleshoot/#find-ip-address-of-camera", 
+            "text": "The recommended may to find the IP address of the camera is to use the official Ricoh mobile app\nand connect the mobile app to the camera with client mode. If you prefer to use \na different method, here are 5 alternative ways to find the IP address.   Log into your WiFi router and check which IP was assigned to your THETA V using DHCP  If your THETA V is enabled with \u201cDeveloper Mode\u201d, use  adb shell  to log into your camera and then use ifconfig to find the IP address.  Use Vysor to check the IP address. Requires \u201cDeveloper Mode\u201d.  Use  dns-sd  (does not require Developer Mode)  Use  Python scripts", 
+            "title": "Find IP Address of Camera"
+        }, 
+        {
+            "location": "/main/troubleshoot/#adb", 
+            "text": "Using adb shell to find IP address and test Internet access.    In the example above, the IP address of my camera is 192.168.2.102.", 
+            "title": "adb"
+        }, 
+        {
+            "location": "/main/troubleshoot/#vysor", 
+            "text": "Using Vysor to get IP address of THETA V.", 
+            "title": "Vysor"
+        }, 
+        {
+            "location": "/main/troubleshoot/#plug-in-permissions", 
+            "text": "Use Vysor to check the permissions of your plug-in.  Settings -  Apps   Go to the app you want to verify.   Make sure the appropriate permissions are set. Most plug-ins will need access to the\ncamera of the THETA.", 
+            "title": "Plug-in Permissions"
+        }, 
+        {
+            "location": "/main/next/", 
+            "text": "Next Steps\n\n\nSign up for the \n\ntheta360.guide development community\n to stay up to date with the latest development topics and professional technology trends for the RICOH THETA. If you\u2019re interested in developing a plug-in, check out the \n\nplug-in development guide\n.\n\n\nPlease help us to improve this document by contributing your usage experience and tips back to the \n\ncommunity\n.", 
+            "title": "Community"
+        }, 
+        {
+            "location": "/main/next/#next-steps", 
+            "text": "Sign up for the  theta360.guide development community  to stay up to date with the latest development topics and professional technology trends for the RICOH THETA. If you\u2019re interested in developing a plug-in, check out the  plug-in development guide .  Please help us to improve this document by contributing your usage experience and tips back to the  community .", 
+            "title": "Next Steps"
         }
     ]
 }
