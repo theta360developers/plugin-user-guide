@@ -19,4 +19,4 @@ how you install applications to your mobile phone or
 laptop.
 
 Let's get started with 
-[plug-in installation](install/).
+[plug-in installation](main/install/).
